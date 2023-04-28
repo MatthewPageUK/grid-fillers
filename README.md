@@ -12,4 +12,5 @@ Inspired by the Gridfinity storage solution system ... https://gridfinity.xyz/
 * Sculpture and Artwork
 * Display items
 * Electronic gadgets
+* Nature and wildlife
 
